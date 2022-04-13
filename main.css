@@ -1,3 +1,23 @@
 body {
-    background-color: hotpink;
+    background-color: black;
+}
+.name {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.num {
+    color: red;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.face {
+    display: flex;
+    justify-content: center;
+
+}
+.links {
+    display: flex;
+    justify-content: center;
 }
